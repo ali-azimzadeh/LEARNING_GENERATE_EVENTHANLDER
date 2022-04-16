@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LEARNING_GENERATE_EVENTHANLDER/1.0.0": {
+        "runtime": {
+          "LEARNING_GENERATE_EVENTHANLDER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LEARNING_GENERATE_EVENTHANLDER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
